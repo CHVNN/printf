@@ -1,4 +1,4 @@
-.TH _PRINTF "15 April 2022" "Linux Programmer's manual"
+.TH _PRINTF "May 16 2022" "Linux Programmer's manual"
 .SH NAME
 .B _printf
 - Formatted output conversion.
